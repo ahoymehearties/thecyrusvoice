@@ -1,0 +1,45 @@
+# Site settings
+title: Cyrus Nemati
+email: cyrus@thecyrusvoice.com
+url: http://www.thecyrusvoice.com
+description: "Bringing out the best in every word."
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 6d3a0b #80B3FF
+  secondary: f77400 #f77400
+  secondary-dark: ae5303 #A2122F
+
+# Footer settings
+footer:
+  copyright: Cyrus Nemati
+  location: Location
+  social: Around the Web
+  credits: Looking for my writing work?
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/ahoymehearties
+  - title: soundcloud
+    url: http://soundcloud.com/thecyrusvoice
+  - title: linkedin
+    url: http://linkedin.com
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: San Francisco, SF
+
+# Credits content
+credits: '<a href="http://www.slate.com/authors.cyrus_nemati.html">Have some!' 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#Exclusions
+
+keep_files: [bonk.gif, minecraft, creaturelovesyou.gif, alwaysbemyfriend.gif, favicon.ico, Cyrus_Tony_pokertakes.wav, Cyrus_Nemati_Actor_Resume-Cyrus.pdf]

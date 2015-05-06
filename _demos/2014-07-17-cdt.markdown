@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+title: Center for Democracy & Technology
+date: 2014-07-17
+img: cdtlogo.png
+alt: image-alt
+jobtitle: Web Operations Manager
+tenure: 2009-2013
+location: Washington, DC
+description: Re-launched the CDT.org website, from branding and wireframe to full deployment in Drupal, managing contractors against a small budget. Upgraded the comms platform for greater reach while remaining within the organization’s privacy-minded goals. Wrote for the CDT blog, and instructed program staff on readability and marketing toward a non-tech savvy audience. Managed our press influx, prioritizing large news outlets.
+
+---

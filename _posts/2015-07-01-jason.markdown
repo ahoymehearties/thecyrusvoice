@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+title: Jason the Greek
+developer: Dreamfever Ltd.
+date: 2015-06-05
+img: jason.png
+alt: image-alt
+role: Jason
+year: 2015
+gamelink: http://jasonthegreek.com/
+description: Once upon a time in faraway Ancient Greece lived a man. No – a Lion Man– a near Demi-God who went by the name… of Jason. Denied his kingdom by the mad King Pelias, he and his mighty crew will sail the seven seas in search of the Golden Fleece aboard the legendary vessel – The Argo.
+---

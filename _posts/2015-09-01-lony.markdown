@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+title: Lords of New York
+developer: Lunchtime Studios
+date: 2015-06-05
+img: lony.png
+alt: image-alt
+role: Tony, various
+year: 2015
+gamelink: http://ascensiongames.tumblr.com/
+description: Lords of New York is a poker RPG set in 1920s New York City during the height of Prohibition.
+---
