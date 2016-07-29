@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 6
+title: Kelvin and the Infamous Machine
+developer: Blyts
+date: 2016-05-08
+img: kelvin.png
+alt: image-alt
+role: Ludwig van Beethoven, supporting roles
+year: 2016
+gamelink: http://infamousmachine.com/
+description: Kelvin and the Infamous Machine is a hilarious point-and-click adventure in which you stumble irresponsibly through history to help legendary geniuses complete their masterworks!
+---

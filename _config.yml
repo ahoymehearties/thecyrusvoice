@@ -42,4 +42,4 @@ permalink: pretty
 
 #Exclusions
 
-keep_files: [bonk.gif, minecraft, creaturelovesyou.gif, alwaysbemyfriend.gif, favicon.ico, Cyrus_Tony_pokertakes.wav, Cyrus_Nemati_Actor_Resume-Cyrus.pdf]
+keep_files: [bonk.gif, minecraft, creaturelovesyou.gif, alwaysbemyfriend.gif, favicon.ico, Cyrus_Tony_pokertakes.wav, Cyrus_Nemati_Actor_Resume-Cyrus.pdf, recordings]

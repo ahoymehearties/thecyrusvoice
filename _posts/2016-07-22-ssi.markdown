@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 7
+title: Silver Spring Inquiries
+developer: Createrly
+date: 2016-07-22
+img: ssi.png
+alt: Silver Spring Inquiries
+role: Gus Fletcher
+year: 2016
+gamelink: http://createrly.com/silver-spring-inquiries/
+description: When a loved one goes missing, Gus Fletcher returns to his hometown for the first time in nearly a decade. With time racing against him, Gus must reconnect with the home and family he left behind and solve an old family mystery. Silver Spring Inquiries is a modern audio drama inspired by the radio shows of old. Follow the characters through a fictional version of Silver Spring.  As they hunt for answers our heroes soon discover that the more they uncover the further the mystery goes, making them wonder -- are you asking the right questions?
+---

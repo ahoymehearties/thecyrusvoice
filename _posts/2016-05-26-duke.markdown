@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 9
+title: Duke Grabowski, Mighty Swashbuckler
+developer: Venture Moon
+date: 2016-05-26
+img: duke.png
+alt: image-alt
+role: Slewface, supporting roles
+year: 2016
+gamelink: http://www.venture-moon.com/
+description: The gameplay is classic point-and-click goodness that you know and love from games like The Curse of Monkey Island and our own Ghost Pirates of Vooju Island. Enjoy tropical locations, solve amusing inventory and dialog puzzles, and revel in comic pirate mischief.
+---

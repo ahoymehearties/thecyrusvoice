@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 5
+modal-id: 7
 title: Quest for Infamy
 developer: Infamous Quests
 date: 2014-06-17
@@ -9,5 +9,5 @@ alt: image-alt
 role: Jerrod Smyrna
 year: 2014
 gamelink: http://www.infamous-quests.com/home/
-description: Return to the glory days of role-playing and adventure with this humor-filled fantasy epic, styled in the vein of classic PC RPGs, where you play the charming villain. Blending turn-based combat and spellcasting with puzzle solving and adventure, players can choose from three character classes—brigand (strength), rogue (stealth), or sorcerer (magic), each with unique storylines and adventures—in one of the largest retro role-playing experiences ever. 
+description: Return to the glory days of role-playing and adventure with this humor-filled fantasy epic, styled in the vein of classic PC RPGs, where you play the charming villain. Blending turn-based combat and spellcasting with puzzle solving and adventure, players can choose from three character classes—brigand (strength), rogue (stealth), or sorcerer (magic), each with unique storylines and adventures—in one of the largest retro role-playing experiences ever. <br /> <iframe width="420" height="315" src="https://www.youtube.com/embed/U50dyDkPbpk?start=370" frameborder="0" allowfullscreen></iframe>
 ---
